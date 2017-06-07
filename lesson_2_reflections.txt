@@ -36,3 +36,8 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	Automatic versions may be quicker and easier than
+	manual ones. However, git cannot anticipate all
+	conflicts and know how to resolve them, so manual commits
+	allows the user, who is the expert, to merge the files
+	in the most logical way.
