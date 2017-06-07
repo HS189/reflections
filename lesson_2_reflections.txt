@@ -24,9 +24,15 @@ organized? How would branches help?
 	be able to see where you branched off and why you did it.
 
 How do the diagrams help you visualize the branch structure?
+	They allow you to see how commits are related and how
+	branches interact with each other.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	Merging two branches together combines the code from two different branches
+	into one collection of files. When merging, the 
+	commits from each branch become accessible, which is why
+	we represent them the way we do.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
